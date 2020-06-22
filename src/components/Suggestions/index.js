@@ -28,7 +28,7 @@ const items = [
     {
         key: String(Math.random()),
         img: img4,
-        label: 'Sky',
+        label: 'TV',
     },
     {
         key: String(Math.random()),
@@ -38,12 +38,12 @@ const items = [
     {
         key: String(Math.random()),
         img: img6,
-        label: 'Qr-code',
+        label: 'Cod. Barras',
     },
     {
         key: String(Math.random()),
         img: img7,
-        label: 'Cobrar',
+        label: 'FAQ',
     },
 ];
 
